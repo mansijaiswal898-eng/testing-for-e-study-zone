@@ -1,0 +1,43 @@
+#log_form{
+    height:550px;
+    width:450px;
+    border:5px solid rgba(255, 255, 255, 0.49);
+    background:rgb(156, 207, 221);
+    border-radius: 20px;
+    text-align: center;
+    align-content: center;
+}
+
+#img1{
+    height: 100px;
+    width:100px;
+    border-radius: 50%;
+    margin-top:10px;
+}
+
+.but1{
+    height:40px;
+    width:300px;
+    border-radius: 5px;
+}
+.but2{
+    height:40px;
+    width:300px;
+    background-color:#669dac;
+    border-radius: 5px;
+}
+
+#log_link{
+    margin-top:10px;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+#reg_form{
+    height:600px;
+    width:450px;
+    border:5px solid rgba(255, 255, 255, 0.49);
+    background:rgb(156, 207, 221);
+    border-radius: 20px;
+    text-align: center;
+}
