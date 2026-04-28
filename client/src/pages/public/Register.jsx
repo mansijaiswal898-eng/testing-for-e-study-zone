@@ -17,7 +17,7 @@ const Register = () => {
   const handleSubmit=async(e)=>{
     e.preventDefault();
       try{
-        const res=axios.post('http://localhost:5000/api/user/register',data);
+        const res=axios.post('https://testing-for-e-study-zone.onrender.com/api/user/register',data);
         window.alert("Registered Successfully");
       }
       catch(er){
